@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Week1Challenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Week1Challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\obj\Debug\Week1Challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\obj\Debug\Week1Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\obj\Debug\Week1Challenges.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\obj\Debug\Week1Challenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\Week1Challenges\obj\Debug\Week1Challenges.pdb
