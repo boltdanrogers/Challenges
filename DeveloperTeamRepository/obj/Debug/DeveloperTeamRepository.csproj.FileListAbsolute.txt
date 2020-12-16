@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\bin\Debug\DeveloperTeamRepository.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\bin\Debug\DeveloperTeamRepository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\obj\Debug\DeveloperTeamRepository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\obj\Debug\DeveloperTeamRepository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\obj\Debug\DeveloperTeamRepository.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamRepository\obj\Debug\DeveloperTeamRepository.pdb

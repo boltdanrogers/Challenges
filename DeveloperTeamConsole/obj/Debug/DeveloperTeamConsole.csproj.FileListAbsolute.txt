@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\bin\Debug\DeveloperTeamConsole.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\bin\Debug\DeveloperTeamConsole.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\bin\Debug\DeveloperTeamConsole.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\obj\Debug\DeveloperTeamConsole.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\obj\Debug\DeveloperTeamConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\obj\Debug\DeveloperTeamConsole.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\obj\Debug\DeveloperTeamConsole.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\bin\Debug\DeveloperTeamRepository.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\bin\Debug\DeveloperTeamRepository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundementals\DeveloperTeamConsole\obj\Debug\DeveloperTeamConsole.csproj.CopyComplete
